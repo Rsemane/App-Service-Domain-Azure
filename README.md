@@ -12,15 +12,15 @@ This document aims to highlight this resource, which allows you to purchase, con
 
 ![Slide 2](slides/Slide2.png)
 
-## Slide 3
+
 ![Slide 3](slides/Slide3.png)
 
-## Slide 4
+
 ![Slide 4](slides/Slide4.png)
 
-## Slide 5
+
 ![Slide 5](slides/Slide5.png)
 
-## Slide 6
+
 ![Slide 6](slides/Slide6.png)
 
