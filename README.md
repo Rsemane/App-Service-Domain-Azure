@@ -1,5 +1,5 @@
 # App-Service-Domain-Azure
-Buy your domain via Azure Portal
+## Buy your domain via Azure Portal
 
 ## Slide 1
 ![Slide 1](slides/Slide1.png)
